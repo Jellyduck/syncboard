@@ -22,7 +22,7 @@
 
 ### <font style="color:rgb(31, 31, 31);"></font><font style="color:rgb(31, 31, 31);">实时团队聊天</font>
 + <font style="color:rgb(31, 31, 31);">消息同步</font>
-+ <font style="color:rgb(31, 31, 31);">支持发送图片与文本</font>
++ <font style="color:rgb(31, 31, 31);">">支持发送图片与文本（图片最大支持3MB的大小，如果发送图片没反应，可以尝试换个小于3MB的图片发送）</font>
 + <font style="color:rgb(31, 31, 31);">历史消息分页加载</font>
 + <font style="color:rgb(31, 31, 31);">消息气泡与自动滚动定位</font>
 
