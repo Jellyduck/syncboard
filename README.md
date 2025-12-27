@@ -34,16 +34,13 @@
 
 ## <font style="color:rgb(31, 31, 31);">📱</font><font style="color:rgb(31, 31, 31);"> 界面预览 (Screenshots)</font>
 ### 登录页
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2025/png/38552424/1766815338219-4f1f19e4-9122-44e2-90d0-d628b2c4ef9b.png)
+<img src="https://cdn.nlark.com/yuque/0/2025/png/38552424/1766815338219-4f1f19e4-9122-44e2-90d0-d628b2c4ef9b.png" width="250" alt="登录页截图">
 
 ### 项目列表
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2025/png/38552424/1766815256652-798f2e28-56cb-4e31-b87a-73b99af2683c.png)
+<img src="https://cdn.nlark.com/yuque/0/2025/png/38552424/1766815256652-798f2e28-56cb-4e31-b87a-73b99af2683c.png" width="250" alt="项目列表截图">
 
-### **<font style="color:rgb(31, 31, 31);">任务详情+实时聊天</font>**
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2025/png/38552424/1766815319392-96ef7866-59a7-4a1e-bc8e-44e2ac575c35.png)
+### 任务详情+实时聊天
+<img src="https://cdn.nlark.com/yuque/0/2025/png/38552424/1766815319392-96ef7866-59a7-4a1e-bc8e-44e2ac575c35.png" width="250" alt="任务详情和聊天截图">
 
 ---
 
