@@ -40,7 +40,7 @@
 <img src="https://cdn.nlark.com/yuque/0/2025/png/38552424/1766815256652-798f2e28-56cb-4e31-b87a-73b99af2683c.png" width="250" alt="项目列表截图">
 
 ### 任务详情+实时聊天
-<img src="https://cdn.nlark.com/yuque/0/2025/png/38552424/1766815319392-96ef7866-59a7-4a1e-bc8e-44e2ac575c35.png" width="250" alt="任务详情和聊天截图">
+<img src="https://cdn.nlark.com/yuque/0/2025/png/38552424/1766838218269-aceac2d3-adcc-43f5-b268-1f4a9ac7cdc7.png" width="250" alt="任务详情和聊天截图">
 
 ---
 
